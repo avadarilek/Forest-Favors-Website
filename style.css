@@ -1,0 +1,15 @@
+.game{
+
+  height: 90vh;
+  width: 90vw;
+}
+
+body{
+  background-color: pink;
+
+}
+.container{
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
